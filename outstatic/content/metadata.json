@@ -1,22 +1,7 @@
 {
-  "commit": "f51d66e7743cefc164884c1f1e191b6e8dca1f2f",
-  "generated": "Wed, 24 Apr 2024 22:27:17 GMT",
+  "commit": "8198d3b7df834713cc76c3ca87e388905b617eec",
+  "generated": "Wed, 24 Apr 2024 22:31:12 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
-        "hash": "833716700",
-        "path": "outstatic/content/posts/blog/contact-form.mdx"
-      },
-      "author": "Shafiq Hammad",
-      "authorImage": "/images/blog/author-02.jpg",
-      "collection": "posts",
-      "coverImage": "/images/blog/blog-02.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Configuring Contact Form That Comes with Templates",
-      "slug": "contact-formx",
-      "title": "Configuring Contact Form"
-    },
     {
       "__outstatic": {
         "commit": "58ca5c514c2c40244519727e9ad090a34f189311",
@@ -31,6 +16,36 @@
       "excerpt": "Using Bootstrap Templates Downloaded from GrayGrids",
       "slug": "bootstrap-templatesx",
       "title": "Bootstrap Template Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
+        "hash": "533529927",
+        "path": "outstatic/content/posts/blog/blog-test-md.md"
+      },
+      "author": "Musharof",
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-02.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Blog Example with MDX That Comes with Templates",
+      "slug": "blog-test-md",
+      "title": "Blog Example with MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
+        "hash": "833716700",
+        "path": "outstatic/content/posts/blog/contact-form.mdx"
+      },
+      "author": "Shafiq Hammad",
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-02.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Configuring Contact Form That Comes with Templates",
+      "slug": "contact-formx",
+      "title": "Configuring Contact Form"
     },
     {
       "__outstatic": {
