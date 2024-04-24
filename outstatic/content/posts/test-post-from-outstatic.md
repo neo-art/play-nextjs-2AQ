@@ -1,5 +1,5 @@
 ---
-title: 'Test Post from Outstatic'
+title: 'Test Post from Outstatic 1'
 status: 'published'
 author:
   name: 'Milen'

@@ -1,25 +1,7 @@
 {
-  "commit": "112a5991ca15f232be813105423d094a8d40853d",
-  "generated": "2024-04-24T22:48:47.169Z",
+  "commit": "ec5b3e59b20a0cb0eb90fe4e564a672bf0fe711c",
+  "generated": "2024-04-24T22:51:51.672Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "1a1f120f27e47d75989070651d42d0594c94256c",
-        "hash": "2189336014",
-        "path": "outstatic/content/posts/test-post-from-outstatic.md"
-      },
-      "author": {
-        "name": "Milen",
-        "picture": "https://avatars.githubusercontent.com/u/5845802?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/blog-02-QxMD.jpg",
-      "description": "Test description",
-      "publishedAt": "2024-04-24T22:43:39.579Z",
-      "slug": "test-post-from-outstatic",
-      "status": "published",
-      "title": "Test Post from Outstatic"
-    },
     {
       "__outstatic": {
         "commit": "58ca5c514c2c40244519727e9ad090a34f189311",
@@ -84,6 +66,24 @@
       "slug": "blog-test-md",
       "status": "published",
       "title": "Blog Example with MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "ec5b3e59b20a0cb0eb90fe4e564a672bf0fe711c",
+        "hash": "3539821445",
+        "path": "outstatic/content/posts/test-post-from-outstatic.md"
+      },
+      "author": {
+        "name": "Milen",
+        "picture": "https://avatars.githubusercontent.com/u/5845802?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/blog-02-QxMD.jpg",
+      "description": "Test description",
+      "publishedAt": "2024-04-24T22:43:39.579Z",
+      "slug": "test-post-from-outstatic",
+      "status": "published",
+      "title": "Test Post from Outstatic 1"
     }
   ]
 }
