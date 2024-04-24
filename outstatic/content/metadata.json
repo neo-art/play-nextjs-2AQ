@@ -1,6 +1,6 @@
 {
-  "commit": "8198d3b7df834713cc76c3ca87e388905b617eec",
-  "generated": "Wed, 24 Apr 2024 22:31:12 GMT",
+  "commit": "687d91d01d3d9934f1fdce0f3e1ac56ae78b666a",
+  "generated": "2024-04-24T22:37:10.678Z",
   "metadata": [
     {
       "__outstatic": {
@@ -61,6 +61,24 @@
       "excerpt": "Blog Example with MDX That Comes with Templates",
       "slug": "blog-example-with-mdx-filex",
       "title": "Blog Example with MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "687d91d01d3d9934f1fdce0f3e1ac56ae78b666a",
+        "hash": "2189336014",
+        "path": "outstatic/content/posts/test-post-from-outstatic.md"
+      },
+      "author": {
+        "name": "Milen",
+        "picture": "https://avatars.githubusercontent.com/u/5845802?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/blog-02-QxMD.jpg",
+      "description": "Test description",
+      "publishedAt": "2024-04-24T22:43:39.579Z",
+      "slug": "test-post-from-outstatic",
+      "status": "published",
+      "title": "Test Post from Outstatic"
     }
   ]
 }
