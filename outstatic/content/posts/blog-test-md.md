@@ -2,12 +2,12 @@
 title: 'Blog Example with MDX'
 excerpt: 'Blog Example with MDX That Comes with Templates'
 date:
-coverImage: '/images/blog-02-I5Mz.jpg'
+coverImage: '/images/blog-02-MxND.jpg'
 author:
   name: 'Milen'
 authorImage: '/images/blog/author-02.jpg'
 slug: 'blog-test-md'
-status: 'draft'
+status: 'published'
 description: ''
 publishedAt: '2024-04-24T23:00:18.914Z'
 ---

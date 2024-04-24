@@ -1,6 +1,6 @@
 {
   "commit": "112a5991ca15f232be813105423d094a8d40853d",
-  "generated": "2024-04-24T22:48:43.375Z",
+  "generated": "2024-04-24T22:48:47.169Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,7 +68,7 @@
     {
       "__outstatic": {
         "commit": "112a5991ca15f232be813105423d094a8d40853d",
-        "hash": "106767591",
+        "hash": "550218447",
         "path": "outstatic/content/posts/blog-test-md.md"
       },
       "author": {
@@ -76,13 +76,13 @@
       },
       "authorImage": "/images/blog/author-02.jpg",
       "collection": "posts",
-      "coverImage": "/images/blog-02-I5Mz.jpg",
+      "coverImage": "/images/blog-02-MxND.jpg",
       "date": null,
       "description": "",
       "excerpt": "Blog Example with MDX That Comes with Templates",
       "publishedAt": "2024-04-24T23:00:18.914Z",
       "slug": "blog-test-md",
-      "status": "draft",
+      "status": "published",
       "title": "Blog Example with MDX"
     }
   ]
