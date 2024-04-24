@@ -1,6 +1,6 @@
 {
-  "commit": "3f6eac0183ba0fb0be23353392ad234b825d8058",
-  "generated": "Wed, 24 Apr 2024 22:41:42 GMT",
+  "commit": "9da1e9990474c9bc8799e4f181bf2fac453f8078",
+  "generated": "Wed, 24 Apr 2024 22:44:13 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,9 @@
     },
     {
       "__outstatic": {
-        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
-        "hash": "833716700",
-        "path": "outstatic/content/posts/blog/contact-form.mdx"
-      },
-      "author": "Shafiq Hammad",
-      "authorImage": "/images/blog/author-02.jpg",
-      "collection": "posts",
-      "coverImage": "/images/blog/blog-02.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Configuring Contact Form That Comes with Templates",
-      "slug": "contact-formx",
-      "title": "Configuring Contact Form"
-    },
-    {
-      "__outstatic": {
         "commit": "58ca5c514c2c40244519727e9ad090a34f189311",
         "hash": "2699737262",
-        "path": "outstatic/content/posts/blog/bootstrap-templates.mdx"
+        "path": "outstatic/content/posts/blogs/bootstrap-templates.mdx"
       },
       "author": "Shafiq",
       "authorImage": "/images/blog/author-01.png",
@@ -52,9 +37,24 @@
     },
     {
       "__outstatic": {
+        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
+        "hash": "833716700",
+        "path": "outstatic/content/posts/blogs/contact-form.mdx"
+      },
+      "author": "Shafiq Hammad",
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-02.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Configuring Contact Form That Comes with Templates",
+      "slug": "contact-formx",
+      "title": "Configuring Contact Form"
+    },
+    {
+      "__outstatic": {
         "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
         "hash": "533529927",
-        "path": "outstatic/content/posts/blog/blog-example-with-mdx-file.mdx"
+        "path": "outstatic/content/posts/blogs/blog-example-with-mdx-file.mdx"
       },
       "author": "Musharof",
       "authorImage": "/images/blog/author-02.jpg",
@@ -69,7 +69,7 @@
       "__outstatic": {
         "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
         "hash": "533529927",
-        "path": "outstatic/content/posts/blog/blog-test-md.md"
+        "path": "outstatic/content/posts/blogs/blog-test-md.md"
       },
       "author": "Musharof",
       "authorImage": "/images/blog/author-02.jpg",
