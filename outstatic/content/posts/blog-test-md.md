@@ -1,10 +1,15 @@
 ---
-title: Blog Example with MDX
-excerpt: Blog Example with MDX That Comes with Templates
-date: 2025-12-24
-coverImage: /images/blog/blog-02.jpg
-author: Musharof
-authorImage: /images/blog/author-02.jpg
+title: 'Blog Example with MDX'
+excerpt: 'Blog Example with MDX That Comes with Templates'
+date:
+coverImage: '/images/blog-02-I5Mz.jpg'
+author:
+  name: 'Milen'
+authorImage: '/images/blog/author-02.jpg'
+slug: 'blog-test-md'
+status: 'draft'
+description: ''
+publishedAt: '2024-04-24T23:00:18.914Z'
 ---
 
 ## Introduction
@@ -47,9 +52,8 @@ Here’s how to connect [FormBold](https://formbold.com/) API with your contact 
 </form>
 ```
 
-You’ll find the `unique_form_id` in the [FormBold](https://formbold.com/) dashboard under \***\*Settings>Integration.\*\***
+You’ll find the `unique_form_id` in the [FormBold](https://formbold.com/) dashboard under \***\*Settings&gt;Integration.\*\***
 
 Copy and paste it to the **action** attribute.
 
-This is just the basic setup, FormBold has a lot of great features like re-captcha for spam protection, and the ability to integrate it with other apps like Webhook, Slack, Notion, and GoogleSheet.
-Learn more about [FormBold](https://formbold.com/) [here](https://formbold.com/).
+This is just the basic setup, FormBold has a lot of great features like re-captcha for spam protection, and the ability to integrate it with other apps like Webhook, Slack, Notion, and GoogleSheet. Learn more about [FormBold](https://formbold.com/) [here](https://formbold.com/).

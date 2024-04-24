@@ -1,6 +1,6 @@
 {
-  "commit": "fa0da87b6a0921c3d882a95336a7b0b3adaddc1f",
-  "generated": "Wed, 24 Apr 2024 22:47:14 GMT",
+  "commit": "112a5991ca15f232be813105423d094a8d40853d",
+  "generated": "2024-04-24T22:48:43.375Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,21 +19,6 @@
       "slug": "test-post-from-outstatic",
       "status": "published",
       "title": "Test Post from Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
-        "hash": "533529927",
-        "path": "outstatic/content/posts/blog-test-md.md"
-      },
-      "author": "Musharof",
-      "authorImage": "/images/blog/author-02.jpg",
-      "collection": "posts",
-      "coverImage": "/images/blog/blog-02.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Blog Example with MDX That Comes with Templates",
-      "slug": "blog-test-md",
-      "title": "Blog Example with MDX"
     },
     {
       "__outstatic": {
@@ -79,6 +64,26 @@
       "excerpt": "Configuring Contact Form That Comes with Templates",
       "slug": "contact-formx",
       "title": "Configuring Contact Form"
+    },
+    {
+      "__outstatic": {
+        "commit": "112a5991ca15f232be813105423d094a8d40853d",
+        "hash": "106767591",
+        "path": "outstatic/content/posts/blog-test-md.md"
+      },
+      "author": {
+        "name": "Milen"
+      },
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog-02-I5Mz.jpg",
+      "date": null,
+      "description": "",
+      "excerpt": "Blog Example with MDX That Comes with Templates",
+      "publishedAt": "2024-04-24T23:00:18.914Z",
+      "slug": "blog-test-md",
+      "status": "draft",
+      "title": "Blog Example with MDX"
     }
   ]
 }
