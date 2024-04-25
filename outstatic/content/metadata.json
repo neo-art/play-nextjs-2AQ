@@ -1,25 +1,7 @@
 {
-  "commit": "570c7b70450ad730c2f1b55df4c9db20c553ef11",
-  "generated": "Wed, 24 Apr 2024 22:52:01 GMT",
+  "commit": "cdd865f2fc221c9bf8a4dbd012c105541dfe5313",
+  "generated": "Thu, 25 Apr 2024 22:54:02 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "4259bf35a3e554b766a871b462fa68b915d01cb0",
-        "hash": "2189336014",
-        "path": "outstatic/content/posts/test-post-from-outstatic.md"
-      },
-      "author": {
-        "name": "Milen",
-        "picture": "https://avatars.githubusercontent.com/u/5845802?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "/images/blog-02-QxMD.jpg",
-      "description": "Test description",
-      "publishedAt": "2024-04-24T22:43:39.579Z",
-      "slug": "test-post-from-outstatic",
-      "status": "published",
-      "title": "Test Post from Outstatic"
-    },
     {
       "__outstatic": {
         "commit": "836ffb4d6f1267b38bb1e29c8c3422dd3e54513f",
@@ -42,18 +24,21 @@
     },
     {
       "__outstatic": {
-        "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
-        "hash": "533529927",
-        "path": "outstatic/content/posts/blog-example-with-mdx-file.mdx"
+        "commit": "4259bf35a3e554b766a871b462fa68b915d01cb0",
+        "hash": "3539821445",
+        "path": "outstatic/content/posts/test-post-from-outstatic.md"
       },
-      "author": "Musharof",
-      "authorImage": "/images/blog/author-02.jpg",
+      "author": {
+        "name": "Milen",
+        "picture": "https://avatars.githubusercontent.com/u/5845802?v=4"
+      },
       "collection": "posts",
-      "coverImage": "/images/blog/blog-02.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Blog Example with MDX That Comes with Templates",
-      "slug": "blog-example-with-mdx-filex",
-      "title": "Blog Example with MDX"
+      "coverImage": "/images/blog-02-QxMD.jpg",
+      "description": "Test description",
+      "publishedAt": "2024-04-24T22:43:39.579Z",
+      "slug": "test-post-from-outstatic",
+      "status": "published",
+      "title": "Test Post from Outstatic 1"
     },
     {
       "__outstatic": {
@@ -69,6 +54,21 @@
       "excerpt": "Using Bootstrap Templates Downloaded from GrayGrids",
       "slug": "bootstrap-templatesx",
       "title": "Bootstrap Template Guide"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1ccbedf6ad61f7a8f00bd3c14e14e0773209ad7",
+        "hash": "533529927",
+        "path": "outstatic/content/posts/blog-example-with-mdx-file.mdx"
+      },
+      "author": "Musharof",
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-02.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Blog Example with MDX That Comes with Templates",
+      "slug": "blog-example-with-mdx-filex",
+      "title": "Blog Example with MDX"
     },
     {
       "__outstatic": {
