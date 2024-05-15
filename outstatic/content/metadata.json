@@ -1,7 +1,57 @@
 {
-  "commit": "f4103430ba4791a58b1cfc84a36d9ea6c4da7b5d",
-  "generated": "2024-05-15T19:48:56.895Z",
+  "commit": "b550aeb36cb253e664dd8933b8cd6fd67548c4bd",
+  "generated": "Wed, 15 May 2024 19:50:26 GMT",
   "metadata": [
+    {
+      "__outstatic": {
+        "commit": "0f2db54de732c83a201e55073f35e122c45bd474",
+        "hash": "550218447",
+        "path": "outstatic/content/posts/blog-test-md.md"
+      },
+      "author": {
+        "name": "Milen"
+      },
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog-02-MxND.jpg",
+      "date": null,
+      "description": "",
+      "excerpt": "Blog Example with MDX That Comes with Templates",
+      "publishedAt": "2024-04-24T23:00:18.914Z",
+      "slug": "blog-test-md",
+      "status": "published",
+      "title": "Blog Example with MDX"
+    },
+    {
+      "__outstatic": {
+        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
+        "hash": "833716700",
+        "path": "outstatic/content/posts/contact-form.mdx"
+      },
+      "author": "Shafiq Hammad",
+      "authorImage": "/images/blog/author-02.jpg",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-02.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Configuring Contact Form That Comes with Templates",
+      "slug": "contact-formx",
+      "title": "Configuring Contact Form"
+    },
+    {
+      "__outstatic": {
+        "commit": "58ca5c514c2c40244519727e9ad090a34f189311",
+        "hash": "2699737262",
+        "path": "outstatic/content/posts/bootstrap-templates.mdx"
+      },
+      "author": "Shafiq",
+      "authorImage": "/images/blog/author-01.png",
+      "collection": "posts",
+      "coverImage": "/images/blog/blog-01.jpg",
+      "date": "2025-12-24T00:00:00.000Z",
+      "excerpt": "Using Bootstrap Templates Downloaded from GrayGrids",
+      "slug": "bootstrap-templatesx",
+      "title": "Bootstrap Template Guide"
+    },
     {
       "__outstatic": {
         "commit": "4259bf35a3e554b766a871b462fa68b915d01cb0",
@@ -34,56 +84,6 @@
       "excerpt": "Blog Example with MDX That Comes with Templates",
       "slug": "blog-example-with-mdx-filex",
       "title": "Blog Example with MDX"
-    },
-    {
-      "__outstatic": {
-        "commit": "58ca5c514c2c40244519727e9ad090a34f189311",
-        "hash": "2699737262",
-        "path": "outstatic/content/posts/bootstrap-templates.mdx"
-      },
-      "author": "Shafiq",
-      "authorImage": "/images/blog/author-01.png",
-      "collection": "posts",
-      "coverImage": "/images/blog/blog-01.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Using Bootstrap Templates Downloaded from GrayGrids",
-      "slug": "bootstrap-templatesx",
-      "title": "Bootstrap Template Guide"
-    },
-    {
-      "__outstatic": {
-        "commit": "557755959108eeb08f5adc4fdcfede4e2e2d5e52",
-        "hash": "833716700",
-        "path": "outstatic/content/posts/contact-form.mdx"
-      },
-      "author": "Shafiq Hammad",
-      "authorImage": "/images/blog/author-02.jpg",
-      "collection": "posts",
-      "coverImage": "/images/blog/blog-02.jpg",
-      "date": "2025-12-24T00:00:00.000Z",
-      "excerpt": "Configuring Contact Form That Comes with Templates",
-      "slug": "contact-formx",
-      "title": "Configuring Contact Form"
-    },
-    {
-      "__outstatic": {
-        "commit": "f4103430ba4791a58b1cfc84a36d9ea6c4da7b5d",
-        "hash": "3045835043",
-        "path": "outstatic/content/posts/blog-test-md.md"
-      },
-      "author": {
-        "name": "Milen"
-      },
-      "authorImage": "/images/blog/author-02.jpg",
-      "collection": "posts",
-      "coverImage": "/images/blog-02-MxND.jpg",
-      "date": "",
-      "description": "",
-      "excerpt": "Blog Example with MDX That Comes with Templates",
-      "publishedAt": "2024-04-24T23:00:18.914Z",
-      "slug": "blog-test-md",
-      "status": "published",
-      "title": "Blog Example with MDX1"
     }
   ]
 }
