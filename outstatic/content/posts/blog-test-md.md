@@ -1,7 +1,7 @@
 ---
-title: 'Blog Example with MDX'
+title: 'Blog Example with MDX1'
 excerpt: 'Blog Example with MDX That Comes with Templates'
-date:
+date: ''
 coverImage: '/images/blog-02-MxND.jpg'
 author:
   name: 'Milen'
